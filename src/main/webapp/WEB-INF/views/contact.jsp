@@ -7,7 +7,7 @@
 <title>Contact Page</title>
 </head>
 <body>
-	This is Contact page
+	This is Contact page upodatred
 	
 	 <%= request.getAttribute("name") %>, welcome to the help page <br>
 	 
